@@ -23,35 +23,23 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=AkmalFirmansyah-30&icon=0&color=0)](https://visitcount.itsvg.in)
 
+
+<p align="left">Play Game With Me</p>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/AkmalFirmansyah-30/AkmalFirmansyah-30/output/snake.svg" alt="Snake animation" />
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AkmalFirmansyah-30/AkmalFirmansyah-30/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AkmalFirmansyah-30/AkmalFirmansyah-30/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AkmalFirmansyah-30/AkmalFirmansyah-30/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<!-- ##### Languages
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,php,javascript,typescript&theme=light&perline=5)](https://skillicons.dev)
-
-##### Framework
-
-<img src="https://img.shields.io/badge/Codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" />
-<img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white" />
-<img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-<img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white" />
-
-##### Database
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-<img src="https://img.shields.io/badge/phpmyadmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white">
-
-##### Connect with me
-
-![https://www.instagram.com/frmnsyhakml_](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
-![https://www.linkedin.com/in/akmal-firmansyah-0a6605387/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-![https://strava.app.link/2Z0Kbp2o1Wb](https://img.shields.io/badge/Strava-FC4C02?style=for-the-badge&logo=strava&logoColor=white)
-
-##### My Github Stats
-
-![AkmalFirmansyah GitHub stats](https://github-readme-stats.vercel.app/api?username=AkmalFirmansyah-30&show_icons=true&theme=tokyonight) -->
